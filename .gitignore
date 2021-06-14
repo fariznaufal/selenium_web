@@ -1,0 +1,7 @@
+/target/
+/test-output/
+/MamikosWebAutomation.iml
+/.classpath
+/.idea
+/bin/
+debug.log
